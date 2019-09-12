@@ -1,0 +1,33 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+
+Nilay Barde
+
+2. Which VPS & domain providers did you choose?
+
+VPS: Vultr, Domain Provider: Amazon
+
+3. What domain name did you register?
+
+www.bardenilay.com
+
+4. Which parts of this assignment did you have trouble with, if any?
+
+Deploying the website's index.html files into the proper directories and connecting it all.
+
+5. Whats the URL for your git repository?
+
+https://github.com/NilayBarde/CS5610-HW01
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
